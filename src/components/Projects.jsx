@@ -10,7 +10,7 @@ export default function Projects() {
       description:
         "A responsive web app that predicts flooding in areas near the Calumpang River, Batangas City. It integrates a machine learning model using Flask API and visualizes flood risk using Leaflet maps.",
       tech: ["Vue.js", "PHP", "Python", "Flask", "MySQL", "Leaflet.js", "HTML/CSS"],
-      link: "https://github.com/yourname/flood-prediction-system", 
+      link: "https://github.com/Emperzxc/Flood-Prediction-Model-BSU-CNV", 
       paperLink: "https://drive.google.com/file/d/1gOnRz_jUc1Ri8T9yQkStvIxnP0xWGIFk/view", 
     },
     {
