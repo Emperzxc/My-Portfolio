@@ -20,7 +20,7 @@ export default function Projects() {
       description:
         "A personal portfolio built using React, Tailwind CSS, and Framer Motion. Designed to showcase my projects, experience, and skills with modern, animated UI components.",
       tech: ["React", "Tailwind CSS", "Framer Motion", "JavaScript"],
-      link: "https://github.com/yourname/portfolio",
+      link: "https://github.com/Emperzxc/My-Portfolio",
     },
   ];
 
